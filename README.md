@@ -10,7 +10,7 @@ Elasticsearch).
 Use this as base for your own containers:
 
 ```dockerfile
-FROM luislavena/mini-java
+FROM mini/java
 
 # ...
 
